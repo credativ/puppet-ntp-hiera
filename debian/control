@@ -7,5 +7,5 @@ Standards-Version: 3.9.5
 
 Package: puppet-module-ntp-hiera
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends} puppet-module-ntp
 Description: puppet module ntp-hiera
