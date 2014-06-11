@@ -1,3 +1,9 @@
+puppet-module-ntp-hiera (1.0.2) unstable; urgency=low
+
+  * Add puppet-module-ntp dependency.
+
+ -- Damian Lukowski <damian.lukowski@credativ.de>  Wed, 11 Jun 2014 12:47:03 +0200
+
 puppet-module-ntp-hiera (1.0.1) unstable; urgency=low
 
   * Initial release.
