@@ -1,1 +1,1 @@
-etc/puppet/modules/ntp-hiera
+usr/share/puppet/modules.available/ntp-hiera
