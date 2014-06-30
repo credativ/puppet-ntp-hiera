@@ -1,3 +1,10 @@
+puppet-module-ntp-hiera (1.0.4) unstable; urgency=medium
+
+  * Change module to use params_lookup function
+  * add parameters interface_ignore, interface_listen and query_networks
+
+ -- Arnd Hannemann <arnd.hannemann@credativ.de>  Mon, 30 Jun 2014 14:07:49 +0200
+
 puppet-module-ntp-hiera (1.0.3) unstable; urgency=medium
 
   * Change module path
