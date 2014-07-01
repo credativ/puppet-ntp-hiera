@@ -12,6 +12,6 @@ class ntp-hiera (
                 interface_ignore => $interface_ignore,
                 interface_listen => $interface_listen,
                 query_networks => $query_networks,
-                server_enabled = $server_enabled
+                server_enabled => $server_enabled
           }
 }
