@@ -6,4 +6,5 @@ class ntp-hiera::params {
     $interface_ignore = undef
     $interface_listen = undef
     $query_networks  = undef
+    $server_enabled = undef
 }
