@@ -1,3 +1,10 @@
+puppet-module-ntp-hiera (1.0.8) UNRELEASED; urgency=medium
+
+  * Add/Update common puppet files
+  * Add tests
+
+ -- Patrick Schoenfeld <patrick.schoenfeld@credativ.de>  Fri, 24 Jun 2016 15:20:23 +0000
+
 puppet-module-ntp-hiera (1.0.7) unstable; urgency=medium
 
   * fixup last release
