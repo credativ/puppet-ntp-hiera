@@ -1,0 +1,12 @@
+fixtures:
+    symlinks:
+        ntp-hiera: "../../../"
+    forge_modules:
+        stdlib:
+            repo: 'puppetlabs/stdlib'
+            ref: '4.2.1'
+    repositories:
+        example42lib:
+            repo: 'https://github.com/credativ/puppet-example42lib'
+        ntp:
+            repo: 'https://github.com/credativ/puppet-ntp'
